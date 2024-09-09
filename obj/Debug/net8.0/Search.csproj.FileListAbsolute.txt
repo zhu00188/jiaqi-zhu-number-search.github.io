@@ -1,0 +1,30 @@
+E:\AC\Web Programming II\lab2\Search-zhu00188\bin\Debug\net8.0\Search.exe
+E:\AC\Web Programming II\lab2\Search-zhu00188\bin\Debug\net8.0\Search.deps.json
+E:\AC\Web Programming II\lab2\Search-zhu00188\bin\Debug\net8.0\Search.runtimeconfig.json
+E:\AC\Web Programming II\lab2\Search-zhu00188\bin\Debug\net8.0\Search.dll
+E:\AC\Web Programming II\lab2\Search-zhu00188\bin\Debug\net8.0\Search.pdb
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.AssemblyInfo.cs
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.sourcelink.json
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.dll
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\refint\Search.dll
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.pdb
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\Search.genruntimeconfig.cache
+E:\AC\Web Programming II\lab2\Search-zhu00188\obj\Debug\net8.0\ref\Search.dll
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\bin\Debug\net8.0\Search.exe
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\bin\Debug\net8.0\Search.deps.json
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\bin\Debug\net8.0\Search.runtimeconfig.json
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\bin\Debug\net8.0\Search.dll
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\bin\Debug\net8.0\Search.pdb
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.AssemblyInfo.cs
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.sourcelink.json
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.dll
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\refint\Search.dll
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.pdb
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\Search.genruntimeconfig.cache
+E:\KAY\CAREER\Projects\Github\Search-zhu00188\obj\Debug\net8.0\ref\Search.dll
